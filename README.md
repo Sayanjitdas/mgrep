@@ -17,4 +17,4 @@ within files. It must auto-recurse into subdirectories.
 ### Notes:
 - Program invocation should follow the pattern:
 > `mgrep <"search_string"> <"search_dir"(absolute-path)>` for linux
-> `wingrep <"search_string"> <"search_dir"(absolute-path)>` for windows
+> `wingrep.exe <"search_string"> <"search_dir"(absolute-path)>` for windows
